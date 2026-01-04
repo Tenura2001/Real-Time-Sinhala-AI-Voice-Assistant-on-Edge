@@ -85,7 +85,7 @@ SinhalaBot is a real-time conversational AI assistant designed specifically for 
 ```
 
 
-<img src="./setup.jpeg" alt="Reggie Wiring Setup" width="100">
+<img src="./setup.jpeg" alt="Reggie Wiring Setup" width="400">
 
 ---
 

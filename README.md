@@ -558,9 +558,13 @@ sudo apt update && sudo apt upgrade -y
 pip install --upgrade google-genai
 ```
 
+
 ---
 
-## 🛣️ Roadmap
+##  Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+
 
 - [ ] **Wake word detection** (offline "Hey Reggie" activation)
 - [ ] **Multi-language support** (Tamil, English code-switching)
@@ -571,11 +575,9 @@ pip install --upgrade google-genai
 - [ ] **Docker** containerization
 - [ ] **Web dashboard** for configuration and monitoring
 
+
 ---
 
-##  Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
 ### Development Setup
 

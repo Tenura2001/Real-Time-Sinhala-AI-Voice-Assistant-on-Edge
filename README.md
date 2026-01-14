@@ -605,6 +605,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ## Our Team:
+**Tenura Pinsara** |
 **Thanuka Perera** |
 **Sehara Arunodya** |
 **Dineth Sanjula**
